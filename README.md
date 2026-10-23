@@ -1,8 +1,9 @@
+
 # 👋 Hi, I'm Muhammad Imran
 
 ### ☁️ DevOps / DevSecOps Engineer | AWS • Azure • Kubernetes • Terraform
 
-I build secure, scalable, and automated cloud infrastructure, with a focus on CI/CD, container orchestration, Infrastructure as Code, and DevSecOps practices.
+I build secure, scalable, and automated cloud infrastructure, focusing on CI/CD, container orchestration, Infrastructure as Code, and DevSecOps practices.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-imran-devops/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rai-Imran)
@@ -15,7 +16,7 @@ I build secure, scalable, and automated cloud infrastructure, with a focus on CI
 - ☁️ Building and automating cloud infrastructure on **AWS and Microsoft Azure**
 - 🚀 Creating CI/CD pipelines with **GitHub Actions, Jenkins, and Azure DevOps**
 - 🐳 Deploying containerized workloads with **Docker, Amazon ECS, EKS, and Azure AKS**
-- 🏗️ Managing infrastructure as code with **Terraform and Ansible**
+- 🏗️ Managing Infrastructure as Code with **Terraform and Ansible**
 - 🔐 Integrating security checks into CI/CD using **Trivy, Semgrep, Checkov, Gitleaks, and OWASP ZAP**
 - 🔄 Working with **GitOps and Argo CD** for deployment automation
 - 📈 Monitoring applications and infrastructure with **Prometheus, Grafana, Loki, and CloudWatch**
@@ -26,35 +27,28 @@ I build secure, scalable, and automated cloud infrastructure, with a focus on CI
 ## 🚀 Featured Projects
 
 ### 🔐 DevSecOps CI/CD Pipeline
-Security-focused CI/CD workflows integrating tools for source-code analysis, container scanning, infrastructure security, and dynamic application testing.
+
+Security-focused CI/CD workflows integrating source-code analysis, container scanning, infrastructure security, and dynamic application testing.
 
 **Technologies:** GitHub Actions, Trivy, Semgrep, Checkov, Gitleaks, OWASP ZAP
 
-[Explore my repositories »](https://github.com/Rai-Imran?tab=repositories)
+[Explore my repositories →](https://github.com/Rai-Imran?tab=repositories)
 
 ### ☁️ AWS Infrastructure & Container Deployment
+
 Infrastructure automation and container deployment workflows using AWS services and Terraform.
 
 **Technologies:** AWS, Terraform, Amazon ECS, Amazon ECR, GitHub Actions
 
-[Explore my repositories »](https://github.com/Rai-Imran?tab=repositories)
+[Explore my repositories →](https://github.com/Rai-Imran?tab=repositories)
 
 ### 📊 k6 Load Testing
+
 Load-testing experiments for evaluating application performance under simulated traffic.
 
 **Technologies:** k6, Python
 
-[View k6-load-testing »](https://github.com/Rai-Imran/k6-load-testing)
-
-> Keep these descriptions aligned with the code actually available in each repository. Replace the general repository links with direct project links when the relevant repositories are public.
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-imran-devops/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rai-Imran)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammad.imran23392@gmail.com)
+[View k6-load-testing →](https://github.com/Rai-Imran/k6-load-testing)
 
 ---
 
@@ -72,11 +66,11 @@ Load-testing experiments for evaluating application performance under simulated 
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-%23FF9900.svg?style=for-the-badge&logo=amazonecs&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-%23FF9900.svg?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure AKS](https://img.shields.io/badge/Azure_AKS-%230078D4.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### ⚙️ CI/CD, Infrastructure as Code & GitOps
 
@@ -88,6 +82,8 @@ Load-testing experiments for evaluating application performance under simulated 
 ![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔐 DevSecOps & Security
 
@@ -98,7 +94,7 @@ Load-testing experiments for evaluating application performance under simulated 
 ![Checkov](https://img.shields.io/badge/Checkov-6B46C1?style=for-the-badge&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-333333?style=for-the-badge&logo=git&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-%234A4A55.svg?style=for-the-badge&logo=snyk&logoColor=white)
-![AWS Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-%23DD344C.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-%23DD3444.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📈 Monitoring, Logging & Observability
 
@@ -127,17 +123,12 @@ Load-testing experiments for evaluating application performance under simulated 
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Current Focus
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rai-Imran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Imran&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rai-Imran&theme=tokyonight&hide_border=true)
-
-</div>
+- ☁️ AWS and Azure cloud infrastructure
+- 🚀 CI/CD automation and GitOps with GitHub Actions and Argo CD
+- 🔐 DevSecOps pipeline security and infrastructure scanning
+- 🐳 Kubernetes, Docker, and Terraform
 
 ---
 
