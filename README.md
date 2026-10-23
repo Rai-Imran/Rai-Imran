@@ -64,11 +64,6 @@ Load-testing experiments for evaluating application performance under simulated 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-%23FF9900.svg?style=for-the-badge&logo=amazonecs&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-%23FF9900.svg?style=for-the-badge&logo=amazoneks&logoColor=white)
-![Azure AKS](https://img.shields.io/badge/Azure_AKS-%230078D4.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-%23DD344C.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
@@ -78,6 +73,10 @@ Load-testing experiments for evaluating application performance under simulated 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-%23FF9900.svg?style=for-the-badge&logo=amazonecs&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-%23FF9900.svg?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/Azure_AKS-%230078D4.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### ⚙️ CI/CD, Infrastructure as Code & GitOps
 
@@ -99,6 +98,7 @@ Load-testing experiments for evaluating application performance under simulated 
 ![Checkov](https://img.shields.io/badge/Checkov-6B46C1?style=for-the-badge&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-333333?style=for-the-badge&logo=git&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-%234A4A55.svg?style=for-the-badge&logo=snyk&logoColor=white)
+![AWS Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-%23DD344C.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📈 Monitoring, Logging & Observability
 
