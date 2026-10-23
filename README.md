@@ -36,11 +36,11 @@ DevOps / DevSecOps Engineer with experience in cloud infrastructure, Kubernetes,
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rai-Imran&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Imran&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rai-Imran&theme=github-dark-blue)
 
 ---
 ⭐ *Interested in cloud infrastructure, automation, and secure deployments.*
